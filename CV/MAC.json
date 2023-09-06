@@ -1,0 +1,1063 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jaime",
+      "surnames": "Burbano",
+      "title": "React Developer | UX Engineer | Web Mentor | Interactive Media Designer at Icesi university",
+      "description": "I am a Colombian interaction designer and frontend developer with experience leading projects of various sizes, from landing pages to fully functional digital products for startups. What sets me apart as a developer is my background and experience in design, which allows me to approach projects with a user-centric mindset and pay attention to the finer details that can enhance the development process.\n\nAdditionally, throughout my 4 years as a developer, I have had the opportunity to go beyond traditional development roles and tackle various challenges within organizations, both at a cultural and operational level. Whether it's frontend, backend, mobile, or integrations, I strive to solve problems and contribute to the overall success of the teams I work with.\n\nMy goal is to continue leveraging my leadership skills in development teams and bring my holistic perspective to create successful products that meet user needs and exceed market expectations. I am excited to continue growing professionally and make meaningful contributions to future challenging projects.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/fe47b1d0-6b81-4986-b83c-693fcb32e4a1_t02l7hw0m-u03tf5237l.jpg",
+        "alt": "T02L7HW0M-U03TF5237L1-c15a0946c8bc-512.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJBa0PuN8oRI4RVju1x_x8E0I)",
+        "country": "Colombia",
+        "region": "Antioquia",
+        "municipality": "Medellín"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://jaimeburbano.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Square 1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/6cd61da4-ef8c-406b-83ef-124a2c9f6180_1678452488365.jpg",
+            "alt": "1678452488365.jpg"
+          },
+          "URL": "https://www.square1.io/"
+        },
+        "roles": [
+          {
+            "name": "Web UI Developer",
+            "startDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": "As a front-end developer, I worked on creating new products and provided front-end support for various applications. I utilized Laravel, Tailwind CSS, Alpine.js, and also worked on some projects in Nuxt.js.\nSome of the notable projects I was involved in include:\n- hersport.ie\n- Ireland's Corona sunset campaign\n- Heineken Live Access\n- ePaper.io\n- Aer Lingus Ultimate USA Adventure"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/70d5e968-4daa-40e8-b0ee-20515b6e208b_1586823769617.jpg",
+            "alt": "1586823769617.jpg"
+          },
+          "URL": "https://prolubri.com/"
+        },
+        "roles": [
+          {
+            "name": "Web UI Developer",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "In charge of web UI development of the Prolubri website."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Team EQ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/a1bd4965-0787-4b50-bcf6-c6fbeee32a55_1651681466731.jpg",
+            "alt": "1651681466731.jpg"
+          },
+          "URL": "https://teameq.net/"
+        },
+        "roles": [
+          {
+            "name": "Digital product designer",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "In charge of planning new functionalities, proposing new ideas, planning them, designing them, developing them and measuring them."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Team EQ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/8606939e-01c1-4e09-85f2-da55f88492f6_1651681466731.jpg",
+            "alt": "1651681466731.jpg"
+          },
+          "URL": "https://teameq.net/"
+        },
+        "roles": [
+          {
+            "name": "Vue Developer",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "Responsible for the implementation of the design system, and the web layout of the entire new TeamEQ product."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Waco Services",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/9916275c-03c2-485d-ae71-a800dff5cf40_1636080866340.jpg",
+            "alt": "1636080866340.jpg"
+          },
+          "URL": "https://carvajalempaques.com/"
+        },
+        "roles": [
+          {
+            "name": "React Developer",
+            "startDate": "2021-09-01",
+            "finishDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Implementation of the new web and mobile interfaces of Carvajal packaging."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Waco Services",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/1fcbc977-d55e-420a-8c7c-4c63c450a2f7_1636080866340.jpg",
+            "alt": "1636080866340.jpg"
+          },
+          "URL": "https://wacohub.com/"
+        },
+        "roles": [
+          {
+            "name": "React Developer",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-03-31",
+            "challenges": [
+              {
+                "description": "Waco Digital Hub\nIn chage for the web layout of the \"Waco App\", complying with accessibility standards. Additionally, in charge of a progressive refactor of Semantic HTML implementation, standardization and correct use of style libraries, such as Material UI."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Waco Services",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/a6159f7d-5499-4daa-b0b8-8516cdad1b2a_1636080866340.jpg",
+            "alt": "1636080866340.jpg"
+          },
+          "URL": "https://www.carvajal.com/sostenibilidad/inicio/"
+        },
+        "roles": [
+          {
+            "name": "React Developer",
+            "startDate": "2021-08-01",
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Implementation of the new web and mobile interfaces of Carvajal sustainability."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tranqui Finanzas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/31114a56-64b4-494c-bdeb-0e0556b34046_1519909976528.jpg",
+            "alt": "1519909976528.jpg"
+          },
+          "URL": "https://tranquifinanzas.com/"
+        },
+        "roles": [
+          {
+            "name": "React Developer",
+            "startDate": "2020-12-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "At Tranqui Finanzas, I was part of the founding technology team and played a crucial role in developing our tools to improve the quality of life for Latin Americans through financial education. One of our main applications is a banking negotiation platform, where we offer people the option to renegotiate their debts with institutions like Davivienda and Caja Social. We also worked on an additional application that helps Latin Americans manage their money through a budgeting app.\n\nDuring my time on the team, I was responsible for setting up all integration tests using Cypress, ensuring the quality of the product development processes. Additionally, I had the responsibility of documenting all functionalities and processes for future team members. My contribution was essential in ensuring a reliable and well-documented product.\n\nI was involved in the development and continuous improvement of these applications, always aiming to provide innovative solutions that would have a positive impact on the financial lives of people in Latin America."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Waco Services",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/05/d9236105-6b2b-4601-a090-5aea75b38bcb_1636080866340.jpg",
+            "alt": "1636080866340.jpg"
+          },
+          "URL": "https://mercamio.com/"
+        },
+        "roles": [
+          {
+            "name": " React Developer",
+            "startDate": "2020-08-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Front end developer in charge of building the ecommerce of \"merca mio\", one of the largest supermarkets in the city of Cali, with technologies such as google maps and firebase."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".htaccess",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad ICESI"
+        },
+        "roles": [
+          {
+            "name": "Diseñador gráfico",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-01-31",
+            "challenges": [
+              {
+                "description": "Encargado de realizar las piezas gráficas de las redes sociales del Centro Eduteka teniendo como base un plan de mercadeo tradicional y digital con el fin de obtener nuevos matriculados en la Maestría de Educación mediadas por las Tic en modalidad 100% virtual."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad ICESI"
+        },
+        "roles": [
+          {
+            "name": "Monitor de programación",
+            "startDate": "2019-06-01",
+            "finishDate": "2019-11-30",
+            "challenges": [
+              {
+                "description": "Encargado de apoyar a los estudiantes de Diseño de Medios Interactivos y Diseño Industrial en los diferentes desarrollos que deben realizar en sus materias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Angular Diseño Más Interacción"
+        },
+        "roles": [
+          {
+            "name": "React Developer",
+            "startDate": "2019-04-01",
+            "finishDate": "2019-07-31",
+            "challenges": [
+              {
+                "description": "Encargado del desarrollo front end de uno de los proyectos de la agencia llamado \"Get 2 wear\", donde tuve la oportunidad de realizar un refactor y agregar nuevas funcionalidades, como la del proceso de subida y alquiler de vestidos y también del desarrollo de algunos sitios web internos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Angular Diseño Más Interacción"
+        },
+        "roles": [
+          {
+            "name": "Diseñador de interfaces de usuario",
+            "startDate": "2018-06-01",
+            "finishDate": "2019-07-31",
+            "challenges": [
+              {
+                "description": "Encargado del diseño de experiencias de usuario e interfaces de usuario para diferentes cuentas internas de la empresa como lo son Rolling, Choice, Get2Wear, SenciYa, entre otros."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad ICESI"
+        },
+        "roles": [
+          {
+            "name": "Monitor de programación",
+            "startDate": "2018-01-01",
+            "finishDate": "2018-06-30",
+            "challenges": [
+              {
+                "description": "Encargado de apoyar a los estudiantes de Diseño de Medios Interactivos y Diseño Industrial en los diferentes desarrollos que deben realizar en sus materias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad ICESI"
+        },
+        "roles": [
+          {
+            "name": "Diseñador gráfico",
+            "startDate": "2017-06-01",
+            "finishDate": "2018-07-31",
+            "challenges": [
+              {
+                "description": "Diseñador de la oficina Syri E - Learning\n\nEncargado de realizar piezas informativas de los servicios de la oficina.\nDiseño y Animación de piezas informativas de los servicios de la oficina.\nDiseño y Animación de cursos virtuales MOC."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Basecamp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ChartJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cordova",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Dart",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Eclipse",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Electron",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FlexBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud Firestore",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Marvel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MaterialUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Progress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Puppeteer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Styled Components",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeORM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vagrant",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VanillaJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VirtualBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Diseño de Medios Interactivos",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Universidad Icesi",
+          "description": "Titulación: 4.1 / 5.0Titulación: 4.1 / 5.0\nActividades y grupos: Creador del grupo estudiantil de Diseño de Medios Interactivos\nEquipo competitivo de Natación\nEquipo competitivo de Ultimate\n",
+          "URL": "https://www.icesi.edu.co"
+        },
+        "finishDate": "2022-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Adobe Illustrator",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Comunicación intercultural",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/eltranseunteurbano",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/eltranseunteurbano",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "burbanojaime98@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "3162580525",
+          "countryCode": "+57"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Dart",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Layout Designer / Maquetación",
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "API",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría encontrar un lugar donde el objetivo sea solucionar un problema de los usuarios. Donde nos enfoquemos en resolver problemas y estemos todo el equipo en función de eso; dónde lo más importante sea el usuario.\n\nAdicionalmente, en un equipo abierto, que se comunique, dodne se pregunten y se ayuden entre si."
+  }
+}
