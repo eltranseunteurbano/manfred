@@ -386,6 +386,10 @@
                 "type": "technology"
               },
               {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
                 "name": "GraphQL",
                 "type": "technology"
               },
